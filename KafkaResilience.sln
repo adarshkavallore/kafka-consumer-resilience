@@ -5,9 +5,9 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Producer", "Producer\Producer.csproj", "{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubService", "StubService\StubService.csproj", "{F4009088-52A0-4E28-94BF-40CB410FFD06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StubService", "StubService\StubService.csproj", "{F4009088-52A0-4E28-94BF-40CB410FFD06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{E5F272E7-DBEC-4535-81B3-7502A50BA756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "Consumer\Consumer.csproj", "{E5F272E7-DBEC-4535-81B3-7502A50BA756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
