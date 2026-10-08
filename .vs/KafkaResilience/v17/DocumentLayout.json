@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\KafkaResilience\\",
+  "WorkspaceRootPath": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\kafkaresilience\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\kafkaresilience\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -71,25 +67,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Producer",
-              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\KafkaResilience\\Producer\\Producer.csproj",
-              "RelativeDocumentMoniker": "Producer\\Producer.csproj",
-              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\KafkaResilience\\Producer\\Producer.csproj",
-              "RelativeToolTip": "Producer\\Producer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-08T13:01:30.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\KafkaResilience\\Producer\\Program.cs",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\Producer\\Program.cs",
               "RelativeDocumentMoniker": "Producer\\Program.cs",
-              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\KafkaResilience\\Producer\\Program.cs",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\Producer\\Program.cs",
               "RelativeToolTip": "Producer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T13:00:50.621Z",
               "EditorCaption": ""
