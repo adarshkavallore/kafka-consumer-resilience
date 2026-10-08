@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F5D31BA-1695-4B41-BC60-6C7B01BA3618}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\stubservice\\stubservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|solutionrelative:stubservice\\stubservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\stubservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|solutionrelative:stubservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\stubservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|solutionrelative:stubservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\stubservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|solutionrelative:stubservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|c:\\copilotdojo\\mltraining\\kafkapoc\\kafka-consumer-resilience\\stubservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4009088-52A0-4E28-94BF-40CB410FFD06}|StubService\\StubService.csproj|solutionrelative:stubservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 103,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,15 +82,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StubService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StubService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T13:17:10.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StubService\\appsettings.Development.json",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\appsettings.Development.json",
+              "RelativeToolTip": "StubService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T13:16:45.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\appsettings.json",
+              "RelativeDocumentMoniker": "StubService\\appsettings.json",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\appsettings.json",
+              "RelativeToolTip": "StubService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T13:15:49.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StubService",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\StubService.csproj",
+              "RelativeDocumentMoniker": "StubService\\StubService.csproj",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\StubService.csproj",
+              "RelativeToolTip": "StubService\\StubService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T13:14:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\Producer\\Program.cs",
-              "RelativeDocumentMoniker": "Producer\\Program.cs",
-              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\Producer\\Program.cs",
-              "RelativeToolTip": "Producer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\Program.cs",
+              "RelativeDocumentMoniker": "StubService\\Program.cs",
+              "ToolTip": "C:\\copilotDojo\\MLTraining\\kafkapoc\\kafka-consumer-resilience\\StubService\\Program.cs",
+              "RelativeToolTip": "StubService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T13:00:50.621Z",
+              "WhenOpened": "2026-10-08T13:12:26.862Z",
               "EditorCaption": ""
             }
           ]
