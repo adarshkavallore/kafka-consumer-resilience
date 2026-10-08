@@ -1,0 +1,40 @@
+name: Validate Commit Email
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate commit emails
+        env:
+          ALLOWED_EMAIL: "adarshsjv00@gmail.com"
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            COMMITS=$(git log \
+              "origin/${{ github.base_ref }}..HEAD" \
+              --format="%ae")
+          else
+            COMMITS=$(git log \
+              "${{ github.event.before }}..${{ github.sha }}" \
+              --format="%ae")
+          fi
+
+          for email in $COMMITS; do
+            if [ "$email" != "$ALLOWED_EMAIL" ]; then
+              echo "Invalid commit email: $email"
+              echo "Only $ALLOWED_EMAIL is allowed."
+              exit 1
+            fi
+          done
+
+          echo "All commits use the allowed email."
